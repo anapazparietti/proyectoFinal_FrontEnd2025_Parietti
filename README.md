@@ -1,0 +1,3 @@
+Ariana Grande fanpage
+Descripción:
+Este proyecto es una página web básica que busca homeneajear a la artista Ariana Grande. La página está estructurada con HTML semántico, permitiendo a los desarrolladores identificar de forma clara la organicación del contenido. Siendo parte de un curso de Front-End, tiene como objetivo, en una primera etapa, aprender a crear la estructura básica de una página web y, con el avance de las clases, prepararla para futuras mejoras con CSS y JavaScript.

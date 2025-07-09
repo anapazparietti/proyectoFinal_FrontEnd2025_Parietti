@@ -1,0 +1,37 @@
+/* importación de estilos */
+@import url(header.css);
+@import url(footer.css);
+@import url(hero.css);
+
+/* importación de fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@200..800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  color: aliceblue;
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    color:cornflowerblue;
+  }
+}
+
+main{
+    font-family: "Sono", monospace;
+}
+
+.inicio{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+

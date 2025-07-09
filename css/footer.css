@@ -1,0 +1,53 @@
+footer{
+    background-color:beige;
+    font-family: "Space Mono", monospace;
+    font-style: normal;
+    color:rgb(20, 9, 2);
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 20px;
+    flex-direction: column;
+    & a{
+        text-decoration: none;
+        font: 16px;
+        font-weight: 600;
+        transition: 0.5 ease;
+        color:rgb(20, 9, 2);
+    }
+    & a:hover{
+        color:cornflowerblue;
+    }
+
+    & h6{
+    font-weight: 400;
+    }
+}
+
+footer    .redes{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 10px;
+
+    & li {
+        list-style: none;
+        padding: 0 20px;
+    }
+     & a{
+        text-decoration: none;
+        font: 16px;
+        font-weight: 600;
+        transition: 0.5 ease;
+        color:rgb(20, 9, 2);
+    }
+}
+
+footer div{
+    margin: 15px;
+    }
+
+
+
